@@ -4,5 +4,6 @@ public class  Test{
 		System.out.println("This is a modified class created by and me!");	
 		System.out.println("Test the new and branch!!!");
 		System.out.println("新坑");
+		System.out.println("newnewkeng");
 	}
 }
