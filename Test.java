@@ -5,5 +5,6 @@ public class  Test{
 		System.out.println("Test the new and branch!!!");
 		System.out.println("新坑");
 		System.out.println("newnewkeng");
+		System.out.println("dadakeng");
 	}
 }
